@@ -1,4 +1,3 @@
-source activate funannotate
 cd  /project/TM/01.funannotate
 
 while IFS=$'\t' read -r gca species; do
